@@ -4,7 +4,7 @@
 
 
 - <b>Google Cybersecurity Portfolio</b>
-  - [Projects completed in certificate program](https://github.com/jordan348/Google-Cybersecurity-Portfolio)
+  - [Projects Completed in Certificate Program](https://github.com/jordan348/Google-Cybersecurity-Portfolio)
     
 
 <h2> Certifications  </h2>
