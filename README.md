@@ -20,9 +20,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="www.linkedin.com/in/jordan-foster-983401248">
+<a href= "www.linkedin.com/in/jordan-foster-983401248" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">
 </a>
-
 
 
