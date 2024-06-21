@@ -21,7 +21,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <a href="www.linkedin.com/in/jordan-foster-983401248" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="LinkedIn" width="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40">
 </a>
 
 
