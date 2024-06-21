@@ -20,12 +20,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/jordan-foster-983401248
+<a href="www.linkedin.com/in/jordan-foster-983401248" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="LinkedIn" width="40">
+</a>
 
 
 
--->
