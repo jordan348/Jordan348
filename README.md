@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordan! <br/><a href="https://github.com/jordan348">Student at Texas A&M University</a>, <a href="www.linkedin.com/in/jordan-foster-983401248"> Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Jordan! <br/><a href="https://github.com/jordan348">Student at Texas A&M University</a>, <a href="www.linkedin.com/in/jordan-foster-983401248"> Aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
